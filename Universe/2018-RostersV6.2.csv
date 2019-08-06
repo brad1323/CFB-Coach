@@ -140,7 +140,7 @@ Akron,Van Edwards,RB,4,7
 Alabama,Jonah Williams,OL,3,10
 Alabama,Miller Forristall,TE,2,7
 Alabama,Saivion Smith,CB,3,9
-Alabama,Mac Jones,QB,1,7
+Alabama,Mac Jones,QB,2,7
 Alabama,Anfernee Jennings,LB,3,9
 Alabama,Joshua McMillon,LB,3,8
 Alabama,Shyheim Carter,CB,3,8
@@ -150,7 +150,7 @@ Alabama,Scott Lashley,OL,2,7
 Alabama,Terrell Lewis,LB,3,8
 Alabama,Deonte Brown,OL,2,7
 Alabama,Lester Cotton,OL,4,9
-Alabama,Quinnen Williams,DL,2,7
+Alabama,Quinnen Williams,DL,3,9
 Alabama,Phidarian Mathis,DL,1,7
 Alabama,Cameron Latu,LB,1,7
 Alabama,Nigel Knott,CB,2,7
@@ -169,7 +169,7 @@ Alabama,Mack Wilson,LB,3,9
 Alabama,Dylan Moses,LB,2,8
 Alabama,Henry Ruggs,WR,2,7
 Alabama,Alex Leatherwood,OL,2,8
-Alabama,Jalen Hurts,QB,3,8
+Alabama,Bob Backand,QB,4,3
 Alabama,Daniel Wright,S,2,7
 Alabama,Markail Benton,LB,1,7
 Alabama,Ben Davis,LB,2,7
@@ -196,7 +196,7 @@ Alabama,Jared Mayden,S,3,8
 Alabama,Richie Petitbon,OL,3,8
 Alabama,Devonta Smith,WR,2,7
 Alabama,Major Tennison,TE,2,7
-Alabama,Jerry Jeudy,WR,2,8
+Alabama,Jerry Jeudy,WR,3,9
 Alabama,Chadarius Townsend,WR,1,7
 Alabama,Tyrell Shavers,WR,1,7
 Alabama,Deionte Thompson,S,3,8
@@ -279,7 +279,7 @@ Arizona State,Roy Hemsley,OL,3,7
 Arizona State,George Lea,DL,3,7
 Arizona State,Tyler Whiley,S,4,7
 Arizona State,Manny Wilkins,QB,4,8
-Arizona State,Eno Benjamin,RB,2,6
+Arizona State,Eno Benjamin,RB,2,8
 Arizona State,Paul Lucas,CB,3,7
 Arizona State,Jalen Harvey,S,4,7
 Arizona State,Isaiah Floyd,RB,2,6
@@ -335,7 +335,7 @@ Arizona State,Ryan Kelley,QB,1,6
 Arizona State,Geordon Porter,WR,1,6
 Arizona State,Quinn Bailey,OL,4,8
 Arizona State,Kobe Williams,CB,3,7
-Arizona State,N'Keal Harry,WR,3,8
+Arizona State,N'Keal Harry,WR,4,10
 Arizona State,Terrell Chatman,WR,3,7
 Arizona State,Nick Ralston,LB,3,7
 Arizona State,Brandon Aiyuk,WR,3,7
@@ -1328,7 +1328,7 @@ Clemson,Dexter Lawrence,DL,3,10
 Clemson,Greg Huegel,K,4,9
 Clemson,Shaq Smith,LB,2,7
 Clemson,Baylon Spector,LB,1,7
-Clemson,Ben Batson,QB,1,7
+Clemson,Ben Batson,QB,2,7
 Clemson,Tee Higgins,WR,2,8
 Clemson,Derion Kendrick,WR,1,7
 Clemson,Justin Foster,DL,2,7
@@ -1344,7 +1344,7 @@ Clemson,Darnell Jefferies,DL,1,7
 Clemson,Mike Jones,LB,1,7
 Clemson,Justin Falcinelli,OL,4,8
 Clemson,Isaiah Simmons,LB,2,7
-Clemson,Trevor Lawrence,QB,1,7
+Clemson,Trevor Lawrence,QB,1,10
 Clemson,Logan Rudolph,DL,1,7
 Clemson,Jalen Williams,LB,4,8
 Clemson,Chase Brice,QB,1,7
@@ -1552,7 +1552,7 @@ Duke,Derrick Tangelo,DL,2,6
 Duke,Johnathan Lloyd,WR,4,7
 Duke,Gunnar Holmberg,QB,1,5
 Duke,Scott Bracey,WR,2,6
-Duke,Daniel Jones,QB,3,8
+Duke,Daniel Jones,QB,3,9
 Duke,Joe Giles-Harris,LB,3,8
 Duke,Drew Jordan,DL,2,6
 Duke,Chris Katrenick,QB,1,5
@@ -1735,7 +1735,7 @@ Florida,Jacob Copeland,WR,1,7
 Florida,Donovan Stiner,S,2,7
 Florida,Lucas Krull,TE,2,7
 Florida,Tyler Jordan,OL,4,8
-Florida,Feleipe Franks,QB,2,7
+Florida,Feleipe Franks,QB,2,8
 Florida,Tyrie Cleveland,WR,3,8
 Florida,Jabari Zuniga,DL,3,8
 Florida,Noah Banks,OL,3,8
@@ -1851,7 +1851,7 @@ Florida State,Mike Arnold,OL,2,6
 Florida State,Leonard Warner,LB,2,7
 Florida State,Jacques Patrick,RB,4,8
 Florida State,Isaiah Bolden,CB,1,7
-Florida State,Demarcus Christmas,DL,4,8
+Florida State,Demarcus Christmas,DL,4,9
 Florida State,Jalen Goss,OL,1,6
 Florida State,Malcolm Lamar,DL,1,7
 Florida State,Marvin Wilson,DL,2,7
@@ -1960,7 +1960,7 @@ Georgia,Devonte Wyatt,DL,2,7
 Georgia,Solomon Kindley,OL,2,7
 Georgia,Jay Hayes,DL,4,8
 Georgia,Nate McBride,LB,2,7
-Georgia,Jake Fromm,QB,2,8
+Georgia,Jake Fromm,QB,2,9
 Georgia,Walter Grant,LB,2,7
 Georgia,Richard LeCounte,S,2,7
 Georgia,Jonathan Ledbetter,DL,4,9
@@ -2150,7 +2150,7 @@ Houston,Garrett Davis,S,4,8
 Houston,Amaud Willis-Dalton,LB,1,6
 Houston,Derek Parish,LB,1,6
 Houston,Emeke Egbule,LB,4,7
-Houston,Ed Oliver,DL,3,9
+Houston,Ed Oliver,DL,3,10
 Houston,Blake Young,DL,3,7
 Houston,Kameron Eloph,OL,3,7
 Houston,Mulbah Car,RB,3,7
@@ -2708,7 +2708,7 @@ Kentucky,Lonnie Johnson,CB,4,7
 Kentucky,Lynn Bowden,WR,2,6
 Kentucky,Austin Dotson,OL,1,6
 Kentucky,Christopher Oats,LB,1,6
-Kentucky,Benny Snell,RB,3,8
+Kentucky,Benny Snell,RB,3,9
 Kentucky,Phil Hoskins,DL,3,7
 Kentucky,Bunchy Stallings,OL,4,7
 Kentucky,Miles Butler,K,4,7
@@ -3194,7 +3194,7 @@ Miami,Lorenzo Lingard,RB,1,7
 Miami,Brian Hightower,WR,1,7
 Miami,Bubba Baxa,K,1,6
 Miami,Jahair Jones,OL,4,8
-Miami,N'kosi Perry,QB,1,7
+Miami,N'kosi Perry,QB,2,8
 Miami,Nesta Silvera,DL,1,7
 Miami,Cleveland Reed,OL,1,7
 Miami,Jordan Miller,DL,1,6
@@ -3282,7 +3282,7 @@ Michigan,Andrew Stueber,OL,1,7
 Michigan,Jon Runyan,OL,3,8
 Michigan,Donovan Jeter,DL,1,7
 Michigan,Cesar Ruiz,OL,2,8
-Michigan,Devin Bush,LB,3,9
+Michigan,Devin Bush,LB,3,10
 Michigan,Cameron McGrone,LB,1,7
 Michigan,Mustapha Muhammed,TE,1,7
 Michigan,Ambry Thomas,CB,2,7
@@ -4349,7 +4349,7 @@ Northwestern,Jesse Brown,RB,2,6
 Notre Dame,Braden Lenzy,WR,1,7
 Notre Dame,Miles Boykin,WR,3,8
 Notre Dame,Micah Dew-Treadway,DL,3,8
-Notre Dame,Noah Boykin,CB,1,7
+Notre Dame,Noah Boykin,CB,1,8
 Notre Dame,Donte Vaughn,CB,3,8
 Notre Dame,Khalid Kareem,DL,3,9
 Notre Dame,Derrik Allen,S,1,7
@@ -4515,7 +4515,7 @@ Ohio State,Haskell Garrett,DL,2,7
 Ohio State,Mike Weber,RB,3,9
 Ohio State,Jaelen Gill,RB,1,7
 Ohio State,Justin Hilliard,LB,3,8
-Ohio State,Dwayne Haskins,QB,2,8
+Ohio State,Dwayne Haskins,QB,2,9
 Ohio State,Keandre Jones,LB,3,8
 Ohio State,Luke Farrell,TE,2,7
 Ohio State,Isaiah Prince,OL,4,9
@@ -4543,7 +4543,7 @@ Ohio State,Davon Hamilton,DL,3,8
 Ohio State,Jashon Cornell,DL,3,9
 Ohio State,Josh Proctor,S,1,7
 Ohio State,Michael Jordan,OL,3,9
-Ohio State,Nick Bosa,DL,3,9
+Ohio State,Nick Bosa,DL,3,10
 Ohio State,Master Teague,RB,1,7
 Ohio State,Jaylen Harris,WR,2,7
 Ohio State,Kendall Sheffield,CB,3,9
@@ -4589,13 +4589,13 @@ Oklahoma,Marquise Overton,DL,4,9
 Oklahoma,Carson Meier,RB,4,8
 Oklahoma,Brey Walker,OL,1,7
 Oklahoma,Tramonda Moore,OL,3,8
-Oklahoma,Kyler Murray,QB,3,9
+Oklahoma,Kyler Murray,QB,4,10
 Oklahoma,Justin Broiles,S,1,7
 Oklahoma,Ronnie Perkins,DL,1,7
 Oklahoma,Ron Tatum,DL,1,7
 Oklahoma,Bryan Mead,LB,2,7
 Oklahoma,Trey Sermon,RB,2,8
-Oklahoma,Tanner Mordecai,QB,1,7
+Oklahoma,Jalen Hurts,QB,2,8
 Oklahoma,Caleb Kelly,LB,3,9
 Oklahoma,Grant Calcaterra,TE,2,8
 Oklahoma,Marquise Brown,WR,3,9
@@ -4612,7 +4612,7 @@ Oklahoma,Patrick Fields,S,1,6
 Oklahoma,Charleston Rambo,WR,1,7
 Oklahoma,Bobby Evans,OL,3,9
 Oklahoma,Rodney Anderson,RB,3,9
-Oklahoma,Austin Kendall,QB,2,7
+Oklahoma,Austin Kendall,QB,2,6
 Oklahoma,Austin Seibert,K,4,9
 Oklahoma,Curtis Bolton,LB,4,8
 Oklahoma,K'Jakyre Daley,LB,1,6
@@ -4733,7 +4733,7 @@ Ole Miss,Kevontae' Ruggs,LB,1,6
 Ole Miss,Markel Winters,DL,4,7
 Ole Miss,Javien Hamilton,CB,4,7
 Ole Miss,Kam'Ron White,S,1,5
-Ole Miss,D.K. Metcalf,WR,2,7
+Ole Miss,D.K. Metcalf,WR,2,9
 Ole Miss,Qaadir Sheppard,DL,3,7
 Ole Miss,Octavious Cooley,TE,3,7
 Ole Miss,Matt Corral,QB,1,6
@@ -4760,17 +4760,17 @@ Ole Miss,DeMarcus Gregory,WR,1,5
 Ole Miss,Ryder Anderson,DL,2,6
 Ole Miss,Tylan Knight,RB,1,6
 Ole Miss,Austrian Robinson,DL,3,7
-Oregon,Jordon Scott,DL,2,7
-Oregon,Sam Poutasi,OL,2,6
+Oregon,Jordon Scott,DL,2,8
+Oregon,Sam Poutasi,OL,2,7
 Oregon,Ryan Bay,TE,3,7
 Oregon,Deommodore Lenoir,CB,2,6
 Oregon,Brady Breeze,S,2,6
 Oregon,Andrew Johnson,LB,1,6
 Oregon,Blake Maimone,K,3,7
-Oregon,Bryan Addison,WR,1,6
-Oregon,Jevon Holland,S,1,6
+Oregon,Bryan Addison,WR,1,7
+Oregon,Jevon Holland,S,1,7
 Oregon,Gary Baker,DL,3,7
-Oregon,Tabari Hines,WR,4,7
+Oregon,Juwan Johnson,WR,3,9
 Oregon,Alex Forsyth,OL,1,6
 Oregon,Jake Hanson,OL,3,8
 Oregon,Troy Dye,LB,3,9
@@ -4778,57 +4778,57 @@ Oregon,Drayton Carlberg,DL,3,7
 Oregon,Brenden Schooler,WR,3,7
 Oregon,M.J. Cunningham,LB,1,6
 Oregon,Johnny Johnson,WR,2,7
-Oregon,C.J. Verdell,RB,1,6
+Oregon,C.J. Verdell,RB,2,9
 Oregon,Jacob Breeland,TE,3,8
 Oregon,Mattrell McGraw,S,4,7
 Oregon,Darrian Felix,RB,2,6
 Oregon,Haki Woods,CB,4,7
 Oregon,Nick Pickett,S,2,6
 Oregon,Steve Stephens,S,1,6
-Oregon,Dallas Warmack,OL,4,7
-Oregon,Adam Stack,K,2,6
+Oregon,Dallas Warmack,OL,4,9
+Oregon,Adam Stack,K,2,7
 Oregon,Verone McKinley,CB,1,6
 Oregon,Isaah Crocker,WR,1,6
 Oregon,Daewood Davis,WR,1,6
-Oregon,Justin Hollins,LB,4,8
+Oregon,Justin Hollins,LB,4,9
 Oregon,Braxton Burmeister,QB,2,6
-Oregon,Tony Brooks-James,RB,4,8
-Oregon,D.J. Johnson,LB,2,6
+Oregon,Sean Dollars,RB,1,7
+Oregon,D.J. Johnson,LB,2,7
 Oregon,Austin Faoliu,DL,2,6
 Oregon,Popo Aumavae,DL,1,6
 Oregon,La'Mar Winston,LB,3,8
-Oregon,Sione Kava,DL,3,7
+Oregon,Kayvon Thibodeaux,DL,1,10
 Oregon,Jacob Capra,OL,2,6
 Oregon,Gus Cumberlander,DL,3,7
 Oregon,George Moore,OL,3,7
-Oregon,Travis Dye,RB,1,6
+Oregon,Travis Dye,RB,2,7
 Oregon,Bryson Young,DL,3,7
 Oregon,Brady Aiello,OL,3,7
-Oregon,Cam McCormick,TE,2,6
-Oregon,Calvin Throckmorton,OL,3,8
+Oregon,Cam McCormick,TE,2,7
+Oregon,Calvin Throckmorton,OL,3,9
 Oregon,Jaylon Redd,WR,2,7
 Oregon,Elkanah Dillon,TE,4,8
 Oregon,Cyrus Habibi-Likio,RB,1,6
 Oregon,Sampson Niu,LB,2,6
-Oregon,Justin Herbert,QB,3,8
-Oregon,Dillon Mitchell,WR,3,8
+Oregon,Justin Herbert,QB,3,9
+Oregon,Dillon Mitchell,WR,3,9
 Oregon,Kaulana Apelu,LB,4,7
 Oregon,Cody Shear,OL,1,6
 Oregon,Dexter Myers,CB,2,5
 Oregon,Dawson Jaramillo,OL,1,6
 Oregon,Keith Simms,LB,2,6
-Oregon,Spencer Webb,TE,1,6
+Oregon,Patrick Herbert,TE,1,6
 Oregon,Issac S.,LB,1,6
-Oregon,Ugochukwu Amadi,S,4,8
+Oregon,Ugochukwu Amadi,S,4,9
 Oregon,Kahlef Hailassie,CB,1,6
 Oregon,Billy Gibson,S,2,6
 Oregon,Shane Lemieux,OL,3,8
 Oregon,Andrew Faoliu,DL,1,6
-Oregon,Penei Sewell,OL,1,6
+Oregon,Penei Sewell,OL,1,8
 Oregon,Jalen Jelks,DL,4,8
 Oregon,Adrian Jackson,LB,1,6
 Oregon,Thomas Graham,CB,2,7
-Oregon,Tyler Shough,QB,1,6
+Oregon,Tyler Shough,QB,1,7
 Oregon State,Bradley Bickler,DL,1,5
 Oregon State,B.J. Baylor,RB,1,5
 Oregon State,Blake Brandel,OL,3,7
@@ -4922,7 +4922,7 @@ Penn State,K.J. Hamler,WR,1,7
 Penn State,Daniel George,WR,1,7
 Penn State,Dae'Lun Darien,LB,2,7
 Penn State,Ayron Monroe,S,3,8
-Penn State,Juwan Johnson,WR,3,9
+Penn State,Jake Johnson,WR,4,6
 Penn State,Charlie Katshir,LB,1,6
 Penn State,Ryan Bates,OL,3,9
 Penn State,Rasheed Walker,OL,1,7
@@ -7209,7 +7209,7 @@ Washington State,Willie Taylor,LB,1,6
 Washington State,Jahad Woods,LB,2,7
 Washington State,Trey Tinsley,QB,3,8
 Washington State,Christian Haangana,OL,2,6
-Washington State,Gardner Minshew,QB,4,8
+Washington State,Gardner Minshew,QB,4,9
 Washington State,Brandon Arconado,WR,3,7
 Washington State,Misiona AiolupoteaPei,DL,3,7
 Washington State,Davontavean Martin,WR,2,7
@@ -7423,7 +7423,7 @@ Wisconsin,Jack Sanborn,LB,1,7
 Wisconsin,Anthony Lotti,K,3,8
 Wisconsin,Danny Vanden,QB,1,6
 Wisconsin,Alexander Smith,CB,1,6
-Wisconsin,Jonathan Taylor,RB,2,8
+Wisconsin,Jonathan Taylor,RB,2,9
 Wisconsin,Luke Benzschawel,TE,2,6
 Wisconsin,Travian Blaylock,S,1,6
 Wisconsin,Reggie Pearson,S,1,6
