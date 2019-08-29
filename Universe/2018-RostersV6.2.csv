@@ -279,7 +279,7 @@ Arizona State,Roy Hemsley,OL,3,7
 Arizona State,George Lea,DL,3,7
 Arizona State,Tyler Whiley,S,4,7
 Arizona State,Manny Wilkins,QB,4,8
-Arizona State,Eno Benjamin,RB,2,7
+Arizona State,Eno Benjamin,RB,2,8
 Arizona State,Paul Lucas,CB,3,7
 Arizona State,Jalen Harvey,S,4,7
 Arizona State,Isaiah Floyd,RB,2,6
@@ -523,8 +523,8 @@ Auburn,Chandler Wooten,LB,2,7
 Auburn,Deshaun Davis,LB,4,9
 Auburn,Darius Slayton,WR,3,9
 Auburn,Spencer Nigh,RB,3,8
-Auburn,Joey Gatewood,QB,1,7
-Auburn,Malik Willis,QB,2,7
+Auburn,Joey Gatewood,QB,1,6
+Auburn,Malik Willis,QB,2,6
 Auburn,Marquis McClain,WR,2,7
 Auburn,Prince M.,OL,2,7
 Auburn,Tyrone Truesdell,DL,2,7
@@ -548,7 +548,7 @@ Auburn,Will Hastings,WR,4,8
 Auburn,Kaleb Kim,OL,3,8
 Auburn,Sal Cannella,WR,3,8
 Auburn,Matthew Hill,WR,1,7
-Auburn,Jarrett Stidham,QB,3,9
+Auburn,Bo Nix,QB,1,8
 Auburn,Cord Sandberg,QB,1,7
 Auburn,Prince-Tega Wanogho,OL,3,9
 Ball State,Alex Joss,OL,4,6
@@ -654,7 +654,7 @@ Baylor,Josh Malin,OL,4,7
 Baylor,Patrick Lawrence,OL,4,7
 Baylor,Jason Moore,OL,1,5
 Baylor,Jackson Kimble,OL,1,5
-Baylor,Jalen Hurd,WR,4,7
+Baylor,Jalen Hurd,WR,4,8
 Baylor,Bryson Jackson,LB,1,5
 Baylor,JaMycal Hasty,RB,3,7
 Baylor,Clay Johnston,LB,3,7
@@ -1003,7 +1003,7 @@ BYU,Joe Critchlow,QB,2,5
 BYU,Uriah Leiataua,DL,2,5
 BYU,Gunner Romney,WR,1,5
 BYU,Zayne Anderson,LB,4,6
-BYU,Tanner Mangum,QB,4,6
+BYU,Tanner Mangum,QB,4,7
 BYU,Talon Shumway,WR,3,6
 BYU,Rhett Almond,K,4,6
 BYU,Christian Folau,LB,1,5
@@ -1147,7 +1147,7 @@ Central Florida,Adrian Killins,RB,3,8
 Central Florida,Dredrick Snelson,WR,3,8
 Central Florida,Dedrion Bacote-Sweat,DL,2,6
 Central Florida,Darriel Mack,QB,1,6
-Central Florida,McKenzie Milton,QB,3,8
+Central Florida,McKenzie Milton,QB,3,9
 Central Florida,Luke Palmer,OL,4,7
 Central Florida,Landon Woodson,DL,1,6
 Central Florida,Randy Charlton,DL,1,7
@@ -1810,7 +1810,7 @@ Florida State,Hamsah Nasirildeen,S,2,7
 Florida State,Fredrick Jones,DL,4,8
 Florida State,Janarius Robinson,DL,2,7
 Florida State,Naseir Upshur,TE,3,7
-Florida State,Cam Akers,RB,2,7
+Florida State,Cam Akers,RB,2,8
 Florida State,Derrick Kelly,OL,4,8
 Florida State,Josh Kaindoh,DL,2,7
 Florida State,Jordan Young,WR,1,6
@@ -2082,7 +2082,7 @@ Hawaii,Ilm Manning,OL,1,5
 Hawaii,Drake Stallworth,WR,1,5
 Hawaii,Max Hendrie,DL,2,5
 Hawaii,Chevran Cordeiro,QB,1,5
-Hawaii,John Ursua,WR,3,7
+Hawaii,John Ursua,WR,3,8
 Hawaii,Hekili Keliliki,RB,1,5
 Hawaii,Kalen Hicks,S,3,6
 Hawaii,Miles Reed,RB,1,5
@@ -2144,7 +2144,7 @@ Houston,Grant Stuard,S,2,6
 Houston,Alexander Myres,CB,4,7
 Houston,Roman Brown,LB,4,7
 Houston,Austin Robinson,LB,4,7
-Houston,D'Eriq King,QB,3,7
+Houston,D'Eriq King,QB,3,8
 Houston,Ka'Darian Smith,CB,3,7
 Houston,Garrett Davis,S,4,8
 Houston,Amaud Willis-Dalton,LB,1,6
@@ -2738,7 +2738,7 @@ Kentucky,Landon Young,OL,3,7
 Kentucky,Chris Westry,CB,4,7
 Kentucky,Naasir Watkins,OL,1,6
 Kentucky,Zy'Aire Hughes,WR,1,6
-Kentucky,Josh Allen,LB,4,8
+Kentucky,Josh Allen,LB,4,10
 Kentucky,Stanley Garner,CB,1,6
 Kentucky,Kavosiey Smoke,RB,1,6
 Kentucky,C.J. Conrad,TE,4,8
@@ -2916,7 +2916,7 @@ LSU,Saahdiq Charles,OL,2,8
 LSU,Ed Alexander,DL,3,8
 LSU,Clyde E.,RB,2,7
 LSU,Andre Sale,QB,2,6
-LSU,Greedy Williams,CB,2,8
+LSU,Greedy Williams,CB,3,9
 LSU,Andre Anthony,LB,2,7
 LSU,Racey McMath,WR,2,7
 LSU,Tyler Shelvin,DL,1,7
@@ -3596,7 +3596,7 @@ Missouri,Chris Turner,DL,2,6
 Missouri,Tyree Gillespie,S,2,5
 Missouri,Terry Petry,CB,1,5
 Missouri,Taylor Powell,QB,1,6
-Missouri,Drew Lock,QB,4,8
+Missouri,Drew Lock,QB,4,9
 Missouri,Walter Palmore,DL,4,7
 Missouri,Case Cook,OL,1,6
 Missouri,Nick Bolton,LB,1,6
@@ -3693,7 +3693,7 @@ Navy,Tre Walker,RB,4,6
 Navy,Kendel Wright,OL,3,6
 Navy,Jackson Perkins,DL,1,5
 Navy,Jarvis Polu,DL,3,7
-Navy,Zach Abey,WR,4,7
+Navy,Zach Abey,WR,4,8
 Navy,Anthony Villalobos,DL,3,6
 Navy,Will Andersen,DL,1,5
 Navy,Khaylan Williams,CB,4,6
@@ -3721,8 +3721,8 @@ Navy,Bryan Hammond,RB,4,6
 Navy,Ben Glass,QB,1,5
 Navy,Ryan Mitchell,WR,2,5
 Navy,Kerrick Jones,S,2,5
-Navy,Garret Lewis,QB,4,6
-Navy,Malcolm Perry,QB,3,7
+Navy,Garret Lewis,QB,3,6
+Navy,Malcolm Perry,RB,3,7
 Navy,Aleksei Yaramus,WR,3,6
 Navy,Taylor Heflin,LB,4,7
 Nebraska,Collin Miller,LB,2,6
@@ -3740,7 +3740,7 @@ Nebraska,Luke Gifford,LB,4,7
 Nebraska,Deontai Williams,S,2,6
 Nebraska,Broc Bando,OL,1,6
 Nebraska,Marquel Dismuke,S,2,6
-Nebraska,Adrian Martinez,QB,1,7
+Nebraska,Adrian Martinez,QB,2,8
 Nebraska,Andre Hunt,WR,1,6
 Nebraska,Peyton Newell,DL,4,7
 Nebraska,Mick Stoltenberg,DL,4,8
@@ -4805,7 +4805,7 @@ Oregon,Travis Dye,RB,2,8
 Oregon,Bryson Young,DL,3,7
 Oregon,Brady Aiello,OL,3,8
 Oregon,Cam McCormick,TE,2,6
-Oregon,Calvin Throckmorton,OL,3,9
+Oregon,Calvin Throckmorton,OL,3,10
 Oregon,Jaylon Redd,WR,2,7
 Oregon,Matt Mariota,TE,2,7
 Oregon,Cyrus Habibi-Likio,RB,2,7
