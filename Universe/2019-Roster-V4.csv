@@ -226,7 +226,7 @@ Arizona,Edgar Burrola,OL,2,7
 Arizona,Nathan Tilford,RB,2,7
 Arizona,McKenzie Barnes,CB,2,7
 Arizona,Michael Wiley,RB,1,6
-Arizona,JJ Taylor,RB,3,7
+Arizona,JJ Taylor,RB,3,8
 Arizona,Drew Dixon,WR,2,7
 Arizona,Lucas Havrisik,K,3,7
 Arizona,Lee Anderson,DL,4,7
@@ -617,7 +617,7 @@ Auburn,Will Hastings,WR,4,7
 Auburn,Kaleb Kim,OL,4,8
 Auburn,Sal Cannella,WR,4,7
 Auburn,Matthew Hill,WR,1,7
-Auburn,Bo Nix,QB,1,7
+Auburn,Bo Nix,QB,1,8
 Auburn,Jashawn Sheffield,WR,1,7
 Auburn,Prince-Tega Wanogho,OL,4,8
 Ball State,Jaylen Turner,OL,1,5
@@ -2351,7 +2351,7 @@ Houston,Thabo Mwaniki,S,3,6
 Houston,Marcus Jones,CB,3,7
 Houston,Jordan Carmouche,LB,3,6
 Houston,Taures Payne,DL,3,7
-Houston,D'Eriq King,QB,4,7
+Houston,D'Eriq King,QB,4,9
 Houston,Ka'Darian Smith,CB,4,6
 Houston,Jordan Moore,S,1,6
 Houston,Amaud Willis-Dalton,S,2,6
@@ -3289,7 +3289,7 @@ LSU,Travez Moore,LB,3,7
 LSU,JaCoby Stevens,S,3,8
 LSU,Donavaughn Campbell,OL,3,7
 LSU,Raydarious Jones,CB,1,7
-LSU,Joe Burrow,QB,4,8
+LSU,Joe Burrow,QB,4,9
 LSU,Lloyd Cushenberry,OL,3,8
 LSU,Jarell Cherry,DL,1,7
 LSU,Peter Parrish,QB,1,7
@@ -4268,7 +4268,7 @@ Nebraska,Barret Pickering,K,2,7
 Nebraska,Noah Vedral,QB,2,7
 Nebraska,Darrion Daniels,DL,4,7
 Nebraska,Carlos Davis,DL,4,8
-Nebraska,Lamar Jackson,CB,4,8
+Nebraska,Lamar Jackson,CB,4,9
 Nebraska,Noa Pola-Gates,S,1,7
 Nebraska,Caleb Tannor,LB,2,7
 Nebraska,Andre Hunt,WR,1,7
@@ -4900,7 +4900,7 @@ Ohio,Cole Baker,DL,4,6
 Ohio,Jamison Collier,S,1,6
 Ohio State,Noah Potter,DL,1,7
 Ohio State,Josh Myers,OL,2,7
-Ohio State,Damon Arnette,CB,4,8
+Ohio State,Damon Arnette,CB,4,9
 Ohio State,Chris Chugunov,QB,4,7
 Ohio State,Malik Harrison,LB,4,8
 Ohio State,Tuf Borland,LB,3,8
@@ -5003,7 +5003,7 @@ Oklahoma,Marquise Overton,DL,4,7
 Oklahoma,Jeremiah Hall,RB,2,7
 Oklahoma,Brey Walker,OL,1,7
 Oklahoma,Ian McIver,OL,2,7
-Oklahoma,Jalen Hurts,QB,4,8
+Oklahoma,Jalen Hurts,QB,4,9
 Oklahoma,Justin Broiles,S,2,7
 Oklahoma,Ronnie Perkins,DL,2,8
 Oklahoma,Bryan Mead,LB,3,7
@@ -5184,12 +5184,12 @@ Oregon,Blake Maimone,K,4,7
 Oregon,Bryan Addison,WR,1,7
 Oregon,Jevon Holland,S,2,8
 Oregon,Gary Baker,DL,4,7
-Oregon,Mycah Pittman,WR,1,7
+Oregon,Mycah Pittman,WR,1,8
 Oregon,Alex Forsyth,OL,2,7
-Oregon,Jake Hanson,OL,4,8
-Oregon,Troy Dye,LB,4,8
+Oregon,Jake Hanson,OL,4,9
+Oregon,Troy Dye,LB,4,9
 Oregon,Drayton Carlberg,DL,4,7
-Oregon,Brenden Schooler,WR,4,8
+Oregon,Brenden Schooler,WR,4,7
 Oregon,Mase Funa,LB,1,7
 Oregon,Johnny Johnson,WR,3,8
 Oregon,CJ Verdell,RB,2,8
@@ -5224,8 +5224,8 @@ Oregon,Jaylon Redd,WR,3,8
 Oregon,Josh Delgado,WR,1,7
 Oregon,Cyrus Habibi-Likio,RB,2,7
 Oregon,Sampson Niu,LB,3,7
-Oregon,Justin Herbert,QB,4,8
-Oregon,Juwan Johnson,WR,4,8
+Oregon,Justin Herbert,QB,4,9
+Oregon,Juwan Johnson,WR,4,9
 Oregon,Ge'mon Eaford,LB,1,7
 Oregon,Lance Wilhoite,WR,1,7
 Oregon,DJ James,CB,1,7
@@ -5237,9 +5237,9 @@ Oregon,Malaesala Aumavae-Laulu,OL,3,8
 Oregon,Kahlef Hailassie,S,2,7
 Oregon,Jamal Hill,CB,1,7
 Oregon,Shane Lemieux,OL,4,9
-Oregon,Andrew Faoliu,DL,1,6
-Oregon,Penei Sewell,OL,2,8
-Oregon,Kayvon Thibodeaux,DL,1,7
+Oregon,Andrew Faoliu,DL,2,6
+Oregon,Penei Sewell,OL,2,9
+Oregon,Kayvon Thibodeaux,DL,1,8
 Oregon,Adrian Jackson,LB,2,7
 Oregon,Thomas Graham,CB,3,8
 Oregon,Tyler Shough,QB,1,7
@@ -5955,7 +5955,7 @@ Southern Methodist,Chris Biggurs,DL,4,7
 Southern Methodist,Xavier Jones,RB,4,7
 Southern Methodist,Ke'Mon Freeman,RB,4,7
 Southern Methodist,Jacob Pugh,DL,3,6
-Southern Methodist,Shane Buechele,QB,4,7
+Southern Methodist,Shane Buechele,QB,4,8
 Southern Methodist,Cobe Bryant,OL,3,7
 Southern Methodist,Demerick Gary,DL,4,7
 Southern Methodist,Treveon Johnson,WR,2,7
@@ -6435,7 +6435,7 @@ Texas,Marcus Tillman,LB,1,7
 Texas,Daniel Young,RB,3,7
 Texas,Christian Jones,OL,1,7
 Texas,DeGabriel Floyd,LB,1,7
-Texas,Collin Johnson,WR,4,8
+Texas,Collin Johnson,WR,4,9
 Texas,Tyler Owens,S,1,7
 Texas,Kenyatta Watson,CB,1,7
 Texas,Juwan Mitchell,LB,2,7
@@ -7326,7 +7326,7 @@ Utah,Javelin Guidry,S,3,8
 Utah,Braeden Daniels,OL,1,7
 Utah,Pita Tonga,DL,3,7
 Utah,Hunter Thedford,TE,4,6
-Utah,Zack Moss,RB,4,8
+Utah,Zack Moss,RB,4,9
 Utah,Vonte Davis,S,3,7
 Utah,Devin Brumfield,RB,2,6
 Utah,Terrell Perriman,WR,1,6
@@ -7813,7 +7813,7 @@ Washington State,Clay Markoff,RB,3,6
 Washington State,Fa'avae Fa'avae,LB,2,7
 Washington State,Shahman Moore,S,3,6
 Washington State,Donovan Ollie,WR,1,6
-Washington State,Anthony Gordon,QB,4,7
+Washington State,Anthony Gordon,QB,4,8
 Washington State,Daniel Isom,S,3,7
 Washington State,Dominick Silvels,LB,3,7
 Washington State,Nicholas Sheetz,DL,1,6
